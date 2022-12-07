@@ -1,2 +1,1 @@
-# cgproject
-بروجيت الكلية (مبصمجينه)
+Simple Maze Game with C & Open gl
